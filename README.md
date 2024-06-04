@@ -1,12 +1,16 @@
 # Hi there! 👋
 
-## I'm Leon Gongola 👨‍💻
+## I'm **Leon Gongola** 👨‍💻
+
+---
 
 ### About Me
-- 📍 **Based in:** Calgary, Canada
-- 🎓 **Education:** Software Development Student at SAIT (Graduating in August 2024)
-- 📸 **Profession:** Owner of a Media Company - Shooting Video and Photos at [Qubed Media](https://qubedmedia.ca)
-- 🚀 **Goal:** Register my company, build a community, scale, and grow to achieve financial success.
+- 📍 **Based in:** *Calgary, Canada*
+- 🎓 **Education:** *Software Development Student at SAIT (Graduating in August 2024)*
+- 📸 **Profession:** *Owner of a Media Company - Shooting Video and Photos at [Qubed Media](https://qubedmedia.ca)*
+- 🚀 **Goal:** *Register my company, build a community, scale, and grow to achieve financial success.*
+
+---
 
 ### Skills
 - **Programming Languages:**
@@ -31,28 +35,33 @@
 - **Media Production:**
   ![Adobe Creative Suite](https://img.shields.io/badge/-Adobe_Creative_Suite-FF0000?style=flat&logo=adobe&logoColor=white)
 
-### Projects
-1. **Shifteaze.ca** - [View Project](https://shifteaze.ca)
-   - 🔧 **Description:** Shifteaze is a platform designed to streamline shift management for businesses. It allows employees and employers to efficiently handle shift swaps, schedules, and availability.
-   - 🌟 **Technologies Used:** Next.js, Tailwind CSS, Firebase Authentication, Firestore
+---
 
-2. **Project Name:** [Link to Project](#)
-   - 🔧 **Description:** Brief description of the project.
-   - 🌟 **Technologies Used:** Key features or technologies used.
+### Featured Project
+#### **Shifteaze.ca** - [View Project](https://shifteaze.ca)
+- 🔧 **Description:** *Shifteaze is a platform designed to streamline shift management for businesses. It allows employees and employers to efficiently handle shift swaps, schedules, and availability.*
+- 🌟 **Technologies Used:** *Next.js, Tailwind CSS, Firebase Authentication, Firestore*
+
+---
 
 ### My Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=leongongola&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leongongola&layout=compact&theme=radical)
 
+---
+
 ### Fun Facts
-- 🏞️ Media Company owner at [Qubed Media](https://qubedmedia.ca)
-- 🎮 Avid gamer and tech enthusiast.
-- 📚 Always eager to learn and take on new challenges.
+- 🏞️ *Media Company owner at [Qubed Media](https://qubedmedia.ca)*
+- 🎮 *Avid gamer and tech enthusiast.*
+- 📚 *Always eager to learn and take on new challenges.*
+
+---
 
 ### Get in Touch
 - **Email:** [leongongola@gmail.com](mailto:leongongola@gmail.com)
 - **LinkedIn:** [Leon Gongola LinkedIn](https://www.linkedin.com/in/leongongola/)
+
+---
 
 ### Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/{leongongola}/count.svg)
