@@ -7,8 +7,12 @@
 ### About Me
 - 📍 **Based in:** *Calgary, Canada*
 - 🎓 **Education:** *Software Development Student at SAIT (Graduating in August 2024)*
-- 📸 **Profession:** *Owner of a Media Company - Shooting Video and Photos at [Qubed Media](https://qubedmedia.ca)*
-- 🚀 **Goal:** *Register my company, build a community, scale, and grow to achieve financial success.*
+- 📸 **Profession:** *Owner of a Registered Media Company - [Qubed Media](https://qubedmedia.ca)*
+- 🎯 **Goals:** 
+  - *Build a thriving tech community.*
+  - *Scale and grow my company to achieve financial success.*
+  - *Continuously learn and improve my technical and professional skills.*
+  - *Contribute to innovative projects that make a positive impact.*
 
 ---
 
