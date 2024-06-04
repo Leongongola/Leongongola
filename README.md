@@ -9,18 +9,36 @@
 - 🚀 **Goal:** Register my company, build a community, scale, and grow to achieve financial success.
 
 ### Skills
-- **Programming Languages:** JavaScript, Python, Java, C#, Next.js
-- **Frameworks & Libraries:** React, Node.js, Django, Flask
-- **Tools & Platforms:** Git, Docker, AWS, Azure
-- **Media Production:** Photography, Videography, Adobe Creative Suite
+- **Programming Languages:**
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+  ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next-dot-js&logoColor=white)
+
+- **Frameworks & Libraries:**
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node-dot-js&logoColor=white)
+  ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+  ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+
+- **Tools & Platforms:**
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+  ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+  ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+
+- **Media Production:**
+  ![Adobe Creative Suite](https://img.shields.io/badge/-Adobe_Creative_Suite-FF0000?style=flat&logo=adobe&logoColor=white)
 
 ### Projects
-1. **Project Name:** [Link to Project](#)
-   - 🔧 **Description:** Brief description of the project.
-   - 🌟 **Highlights:** Key features or technologies used.
+1. **Shifteaze.ca** - [View Project](https://shifteaze.ca)
+   - 🔧 **Description:** Shifteaze is a platform designed to streamline shift management for businesses. It allows employees and employers to efficiently handle shift swaps, schedules, and availability.
+   - 🌟 **Technologies Used:** Next.js, Tailwind CSS, Firebase Authentication, Firestore
+
 2. **Project Name:** [Link to Project](#)
    - 🔧 **Description:** Brief description of the project.
-   - 🌟 **Highlights:** Key features or technologies used.
+   - 🌟 **Technologies Used:** Key features or technologies used.
 
 ### My Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=leongongola&show_icons=true&theme=radical)
