@@ -50,7 +50,7 @@
 
 ### My Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=leongongola&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leongongol&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leongongola&layout=compact&theme=radical)
 
 ---
 
